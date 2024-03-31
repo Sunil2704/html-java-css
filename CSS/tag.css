@@ -1,0 +1,39 @@
+/* section div{
+    background-color: grey;
+}
+div{
+    background-color: pink;
+} */
+/* section~div{
+    background-color: red;
+} */
+/* section>article>div{
+    background-color: purple;
+} */
+a:link{
+    color: red;
+}
+
+a:active{
+    color:yellow;
+
+}
+a:visited{
+    color: lawngreen;
+}
+
+a:hover{
+    background-color: black;
+}
+
+section{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+
+article{
+    height: 50%;
+width: 50%;
+background-color: pink;
+}

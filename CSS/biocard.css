@@ -1,0 +1,505 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    border: 1px solid;
+}
+
+
+section>article {
+    height: 400px;
+    width: 250px;
+    background-color: pink;
+    margin-top: 100px;
+    margin-left: 375px;
+    border: 3px solid;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px white;
+}
+
+/* section>article>.profile {
+    height: 30%;
+    width: 100%;
+    background-color: rebeccapurple;
+    border: 1px solid;
+} */
+
+section>article>.profile>div {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: brown;
+    background-image: url(./nirmal.jpg);
+    background-size: cover;
+    /* background-position: 30%; */
+
+}
+
+section>article>.middle {
+    height: 35%;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+section>article>.middle>h2 {
+    color: black;
+
+}
+
+section>article>.middle>h4 {
+    color: black;
+    margin-top: 15px;
+
+}
+
+
+section>article>.middle>h5 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+section>article>.middle>button {
+    height: 25px;
+    width: 60px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+section>article>.middle>button:hover {
+    box-shadow: 0px 0px 5px blue;
+    height: 20px;
+    cursor: pointer;
+}
+
+/* section>article>.icons {
+    height: 35%;
+    width: 100%;
+    background-color: red;
+
+
+} */
+section>article>.line {
+    height: 2px;
+    width: 80%;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 30px;
+}
+
+section>article>.icons>i {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+section>article>.icons>.fa-facebook {
+    color: blue;
+}
+
+section>article>.icons>.fa-square-x-twitter {
+    color: black;
+}
+
+section>article>.icons>.fa-telegram {
+    color: rgb(3, 181, 252);
+}
+
+section>article>.likes {
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+section>article>.likes>.tg {
+    color: black;
+    margin-left: 40px;
+}
+
+section>article>.likes>.tittar {
+    color: black;
+    margin-left: 40px;
+}
+
+section>article>.likes>.fb {
+    color: black;
+}
+
+
+/* ---------------------- */
+
+
+section>.new {
+    height: 400px;
+    width: 250px;
+    background-color: skyblue;
+    margin-top: -400px;
+    margin-left: 50px;
+    border: 3px solid;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px white;
+}
+
+section>.new>.pic {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: brown;
+    background-image: url(./sunil.jpg);
+    background-size: cover;
+    background-position: 40%;
+}
+
+section>.new>.middle1 {
+    height: 35%;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+section>.new>.middle1>h2 {
+    color: black;
+
+}
+
+section>.new>.middle1>h4 {
+    color: black;
+    margin-top: 15px;
+
+}
+
+
+section>.new>.middle1>h5 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+section>.new>.middle1>button {
+    height: 25px;
+    width: 60px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+section>.new>.middle1>button:hover {
+    box-shadow: 0px 0px 5px blue;
+    height: 20px;
+    cursor: pointer;
+}
+
+/* section>article>.icons {
+        height: 35%;
+        width: 100%;
+        background-color: red;
+    
+    
+    } */
+section>.new>.line1 {
+    height: 2px;
+    width: 80%;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 30px;
+}
+
+section>.new>.icons1>i {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+section>.new>.icons1>.fa-facebook {
+    color: blue;
+}
+
+section>.new>.icons1>.fa-square-x-twitter {
+    color: black;
+}
+
+section>.new>.icons1>.fa-telegram {
+    color: rgb(3, 181, 252);
+}
+
+section>.new>.likes1 {
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+section>.new>.likes1>.tg1 {
+    color: black;
+    margin-left: 40px;
+}
+
+section>.new>.likes1>.tittar1 {
+    color: black;
+    margin-left: 40px;
+}
+
+section>.new>.likes1>.fb1 {
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+section>.third {
+    height: 400px;
+    width: 250px;
+    background-color: lightgreen;
+    margin-top: -415px;
+    margin-left: 700px;
+    border: 3px solid;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px white;
+}
+
+section>.third>.pic2 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: brown;
+    background-image: url(./sandip.enc);
+    background-size: cover;
+    background-position: 40%;
+}
+
+section>.third>.middle2 {
+    height: 35%;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+section>.third>.middle2>h2 {
+    color: black;
+
+}
+
+section>.third>.middle2>h4 {
+    color: black;
+    margin-top: 15px;
+
+}
+
+
+section>.third>.middle2>h5 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+section>.third>.middle2>button {
+    height: 25px;
+    width: 60px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+section>.third>.middle2>button:hover {
+    box-shadow: 0px 0px 5px blue;
+    height: 20px;
+    cursor: pointer;
+}
+
+/* section>article>.icons {
+        height: 35%;
+        width: 100%;
+        background-color: red;
+    
+    
+    } */
+section>.third>.line2 {
+    height: 2px;
+    width: 80%;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 30px;
+}
+
+section>.third>.icons2>i {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+section>.third>.icons2>.fa-facebook {
+    color: blue;
+}
+
+section>.third>.icons2>.fa-square-x-twitter {
+    color: black;
+}
+
+section>.third>.icons2>.fa-telegram {
+    color: rgb(3, 181, 252);
+}
+
+section>.third>.likes2 {
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+section>.third>.likes2>.tg2 {
+    color: black;
+    margin-left: 40px;
+}
+
+section>.third>.likes2>.tittar2 {
+    color: black;
+    margin-left: 40px;
+}
+
+section>.third>.likes2>.fb2 {
+    color: black;
+}
+
+
+/* -------------------- */
+
+
+ section>.four {
+    height: 400px;
+    width: 250px;
+    background-color: lightgrey;
+    margin-top: -410px;
+    margin-left: 1025px;
+    border: 3px solid;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px white;
+}
+
+section>.four>.pic3 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: brown;
+    background-image: url(./dhaniya.jpg);
+    background-size: cover;
+    background-position: 40%;
+}
+
+section>.four>.middle3 {
+    height: 35%;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+section>.four>.middle3>h2 {
+    color: black;
+
+}
+
+section>.four>.middle3>h4 {
+    color: black;
+    margin-top: 15px;
+
+}
+
+
+section>.four>.middle3>h5 {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+section>.four>.middle3>button {
+    height: 25px;
+    width: 60px;
+    background-color: darkgray;
+    color: black;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+section>.four>.middle3>button:hover {
+    box-shadow: 0px 0px 5px blue;
+    height: 20px;
+    cursor: pointer;
+}
+
+/* section>article>.icons {
+        height: 35%;
+        width: 100%;
+        background-color: red;
+    
+    
+    } */
+section>.four>.line3 {
+    height: 2px;
+    width: 80%;
+    background-color: black;
+    margin-top: 20px;
+    margin-left: 22px;
+    border-radius: 30px;
+}
+
+section>.four>.icons3>i {
+    font-size: 40px;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+section>.four>.icons3>.fa-facebook {
+    color: blue;
+}
+
+section>.four>.icons3>.fa-square-x-twitter {
+    color: black;
+}
+
+section>.four>.icons3>.fa-telegram {
+    color: rgb(3, 181, 252);
+}
+
+section>.four>.likes3 {
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+section>.four>.likes3>.tg3{
+    color: black;
+    margin-left: 40px;
+}
+
+section>.four>.likes3>.tittar3 {
+    color: black;
+    margin-left: 40px;
+}
+
+section>.four>.likes3>.fb3 {
+    color: black;
+}
+
